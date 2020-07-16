@@ -2,6 +2,11 @@
 
 ---
 
+## Projects 
+
+Click on the project titles below to view more details.
+
+
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
