@@ -10,18 +10,28 @@ Click on the project titles below to view more details.
 ### Predictive Modeling  
 
 [Prediction of Bank Customer Response to a Personal Loan Campaign](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Programming language: Python (), R ()
+
+<!-- <img src="images/?raw=true"/> -->
 
 ---
-[Employees' Attrition Prediction Model](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Employees' Attrition Prediction Model](/pdf/sample_presentation.pdf) - team project
+
+Programming language: Python ()
+
+<!-- <img src="images/?raw=true"/> -->
 
 ---
 
 ### Data Mining 
 
 [Identifying Factors Involved in Road Accident Using Data Mining Techniques](/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Programming language: Python (), R () 
+
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> --> 
+
 ---
 
 ### Data Visualization 
@@ -31,6 +41,7 @@ Click on the project titles below to view more details.
 Programming language: Python (Plotly, Pandas, numpy, scipy)
 
 <img src="images/charts overview.png?raw=true"/>
+
 ---
 
 
