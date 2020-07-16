@@ -11,7 +11,7 @@ Click on the project titles below to view more details.
 
 [Prediction of Bank Customer Response to a Personal Loan Campaign](/sample_page)
 
-Programming language: Python (), R ()
+Programming language: R (dataPreparation,ggplot2,caret,imbalance), Python (Pandas, sklearn)
 
 <!-- <img src="images/?raw=true"/> -->
 
