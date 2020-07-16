@@ -16,6 +16,9 @@
 ### Data Visualization 
 
 [Contributions of the Small and Medium-Sized Enterprises in the United States](/SME_page)
+
+Programming language: Python (Plotly, Pandas, numpy, scipy)
+
 <img src="images/charts overview.png?raw=true"/>
 ---
 
