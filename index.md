@@ -17,9 +17,11 @@
 
 ---
 
-### Category Name 2
+### Data Visualization 
 
-- [Project 1 Title](http://example.com/)
+[Contributions of the Small and Medium-Sized Enterprises in the United States](/SME_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
