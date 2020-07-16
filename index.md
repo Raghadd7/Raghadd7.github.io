@@ -13,8 +13,8 @@ Click on the project titles below to view more details.
 
 Programming language: R ( dataPreparation, ggplot2, caret, imbalance),  Python (Pandas, sklearn)
 
-<!-- <img src="images/?raw=true"/> -->
-
+<img src="images/BR-charts overview?raw=true"/>
+<img src="images/RF-charts overview?raw=true"/>
 ---
 [Employees' Attrition Prediction Model](/pdf/sample_presentation.pdf) - team project
 
