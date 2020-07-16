@@ -20,7 +20,7 @@ Programming language: R ( dataPreparation, ggplot2, caret, imbalance),  Python (
 
 [Employees' Attrition Prediction Model](/pdf/sample_presentation.pdf) - team project
 
-Programming language: Python ()
+Programming language: Python
 
 <img src="images/ezgif.com-gif-maker.gif?raw=true"/> 
 
