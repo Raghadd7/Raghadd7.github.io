@@ -16,7 +16,7 @@
 ### Data Visualization 
 
 [Contributions of the Small and Medium-Sized Enterprises in the United States](/SME_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/charts overview.png?raw=true"/>
 ---
 
 - [Project 2 Title](http://example.com/)
