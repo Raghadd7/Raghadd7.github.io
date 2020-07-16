@@ -15,7 +15,9 @@ Programming language: R ( dataPreparation, ggplot2, caret, imbalance),  Python (
 
 <img src="images/BR-charts overview.png?raw=true"/>
 <img src="images/RF-charts overview.png?raw=true"/>
+
 ---
+
 [Employees' Attrition Prediction Model](/pdf/sample_presentation.pdf) - team project
 
 Programming language: Python ()
