@@ -32,7 +32,7 @@ Programming language: Python
 
 Programming language: Python (pandas_profiling, sklearn, imblearn), R (arules, seas) 
 
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> --> 
+<img src="images/UK-charts overview.png?raw=true"/>
 
 ---
 
