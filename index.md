@@ -7,15 +7,21 @@
 Click on the project titles below to view more details.
 
 
-### Category Name 1 
+### Predictive Modeling  
 
-[Project 1 Title](/sample_page)
+[Prediction of Bank Customer Response to a Personal Loan Campaign](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Employees' Attrition Prediction Model](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+
+### Data Mining 
+
+[Identifying Factors Involved in Road Accident Using Data Mining Techniques](/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 ### Data Visualization 
@@ -27,10 +33,8 @@ Programming language: Python (Plotly, Pandas, numpy, scipy)
 <img src="images/charts overview.png?raw=true"/>
 ---
 
+
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
