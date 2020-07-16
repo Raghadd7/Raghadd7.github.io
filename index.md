@@ -22,7 +22,7 @@ Programming language: R ( dataPreparation, ggplot2, caret, imbalance),  Python (
 
 Programming language: Python ()
 
-<img src="images/ezgif.com-optimize.gif?raw=true"/> 
+<img src="images/ezgif.com-gif-maker.gif?raw=true"/> 
 
 ---
 
