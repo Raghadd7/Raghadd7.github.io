@@ -1,4 +1,4 @@
-# Prediction of Bank Customer Response to a Personal Loan Campaign
+## Prediction of Bank Customer Response to a Personal Loan Campaign
 
 Marketing campaigns are a very critical decision for a business that can be unsuccessful if the 
 product or service delivered does not attract interested customers, thus the key objective for direct 
