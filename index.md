@@ -9,7 +9,7 @@ Click on the project titles below to view more details.
 
 ### Predictive Modeling  
 
-[Prediction of Bank Customer Response to a Personal Loan Campaign](/sample_page)
+[Prediction of Bank Customer Response to a Personal Loan Campaign](/BCR_page)
 
 Programming language: R ( dataPreparation, ggplot2, caret, imbalance),  Python (Pandas, sklearn)
 
@@ -30,7 +30,7 @@ Programming language: Python
 
 [Identifying Factors Involved in Road Accident Using Data Mining Techniques](/) - team project
 
-Programming language: Python (pandas_profiling, sklearn, imblearn),      R(arules, seas) 
+Programming language: Python (pandas_profiling, sklearn, imblearn), <br> R (arules, seas) 
 
 <img src="images/UK-charts overview.png?raw=true"/>
 
