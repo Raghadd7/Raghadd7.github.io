@@ -34,21 +34,27 @@ Splitting the data into training and testing is mandatory to apply the learning 
 After preparing the data, 6 learning models were applied: 
 
 1- Gaussian Naive Bayes 
+
 A supervised learning algorithm based on Bayes’ theorem with the naïve assumption of conditional independence between every pair of features given the value of the class variable. 
 
 2- Linear-kernel SVC 
+
 SVC represents frontier which best segregates the two classes by hyper-plane/line. It has various options available with kernel, and linear is the applied type in this project since it produces the highest accuracy on this data.  
 
 3- Decision tree 
+
 DT split the data by using Entropy which control how a DT decides to split the data and draw its boundaries. The depth of the DT that has been applied in the project is maximum 3. 
 
-4- K-Nearest Neighbor  
+4- K-Nearest Neighbor 
+
 KNN algorithm is a type of supervised ML algorithm that calculates the distance of a new data point to all other training data points. The type of distance that has been used in this project is Minkowski distance and the number of neighbors was 4. 
 
 5- Neural Network 
+
 A neuron in a neural network is a mathematical function that collects and classifies data according to a specific architecture. 100 neurons in one hidden layer has been applied. 
 
 6- Random Forest  
+
 Random forest is an ensemble learning method for classification. It has been applied in the project to adds additional randomness to the model while growing the tree. Only a random subset of the features was taken into consideration by the algorithm for splitting a node. 
 By this the accuracy of the model was increased compared to decision tree model. 
 
