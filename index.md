@@ -11,7 +11,7 @@ Click on the project titles below to view more details.
 
 [Prediction of Bank Customer Response to a Personal Loan Campaign](/BCR_page)
 
-Programming language: R ( dataPreparation, ggplot2, caret, imbalance),  Python (Pandas, sklearn)
+Programming language: R (dataPreparation, ggplot2, caret, imbalance),  Python (Pandas, sklearn)
 
 <img src="images/BR-charts overview.png?raw=true"/>
 <img src="images/RF-charts overview.png?raw=true"/>
