@@ -56,11 +56,11 @@ By this the accuracy of the model was increased compared to decision tree model.
 
 **Results:** 
 
-the following chart present the Recall, Precision and Accuracy values for the applied models.
+The following chart present the Recall, Precision and Accuracy values for the applied models.
 
 <img src="images/EMresults.png?raw=true"/>
 
-the follwing table shows the accuracies for the applied models per k-folds equal 3 and 10 in the cross validation method.
+The follwing table shows the accuracies for the applied models per k-folds equal 3 and 10 in the cross validation method.
 
 |Algorithms / Accuracy per K-folds	|  CV=3  |	CV=10 |
 | --------------------------------  | ------ | ------ |
@@ -77,6 +77,4 @@ the follwing table shows the accuracies for the applied models per k-folds equal
 
 Ultimately the project constructed a predicting model to predict employee attrition, by implementing six learning models where the highest are: 
 Decision Tree and Random forest. The accuracy of the models with cross validation lies between 76% and 88%, while the accuracy without cross validation are 
-between 72% and 85%.  
-In conclusion, recommendation to the organization is that it can reduce the rate of attrition by decreasing the overtime for the employees, enhance the monthly 
-income and provide increment in the transportation allowance. By this the organization decrease employees’ attrition.
+between 72% and 85%. In conclusion, recommendation to the organization is that it can reduce the rate of attrition by decreasing the overtime for the employees, enhance the monthly income and provide increment in the transportation allowance. By this the organization decrease employees’ attrition.
