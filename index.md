@@ -44,8 +44,7 @@ Programming language: Python (Plotly, Pandas, numpy, scipy)
 
 <img src="images/charts overview.png?raw=true"/>
 
-The following link shows the interactive charts:
-[a link](https://nbviewer.jupyter.org/github/Raghadd7/Data-Visualization/blob/master/data%20visualization%20SME.ipynb)
+Click here to [view the interactive charts:](https://nbviewer.jupyter.org/github/Raghadd7/Data-Visualization/blob/master/data%20visualization%20SME.ipynb)
 
 ---
 
