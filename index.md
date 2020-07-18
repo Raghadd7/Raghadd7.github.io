@@ -38,7 +38,7 @@ Programming language: Python (pandas_profiling, sklearn, imblearn), <br> R (arul
 
 ### Data Visualization 
 
-[Contributions of the Small and Medium-Sized Enterprises in the United States](/pdf/data visualization Report.pdf)
+[Contributions of the Small and Medium-Sized Enterprises in the United States](/pdf/ data visualization Report.pdf)
 
 Programming language: Python (Plotly, Pandas, numpy, scipy)
 
