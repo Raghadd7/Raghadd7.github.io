@@ -38,13 +38,13 @@ Programming language: Python (pandas_profiling, sklearn, imblearn), <br> R (arul
 
 ### Data Visualization 
 
-[Contributions of the Small and Medium-Sized Enterprises in the United States](/pdf/ data visualization Report.pdf)
+[Contributions of the Small and Medium-Sized Enterprises in the United States](/pdf/data visualization Report.pdf)
 
 Programming language: Python (Plotly, Pandas, numpy, scipy)
 
 <img src="images/charts overview.png?raw=true"/>
 
-Click here to [view the interactive charts:](https://nbviewer.jupyter.org/github/Raghadd7/Data-Visualization/blob/master/data%20visualization%20SME.ipynb)
+Click here to [view the interactive charts](https://nbviewer.jupyter.org/github/Raghadd7/Data-Visualization/blob/master/data%20visualization%20SME.ipynb)
 
 ---
 
