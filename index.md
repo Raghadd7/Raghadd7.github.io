@@ -28,7 +28,7 @@ Programming language: Python
 
 ### Data Mining 
 
-[Identifying Factors Involved in Road Accident Using Data Mining Techniques](/) - team project
+[Identifying Factors Involved in Road Accident Using Data Mining Techniques](/IF_page.md) - team project
 
 Programming language: Python (pandas_profiling, sklearn, imblearn), <br> R (arules, seas) 
 
