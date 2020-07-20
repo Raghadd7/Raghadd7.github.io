@@ -1,16 +1,16 @@
 ## Employees' Attrition Prediction Model
 #### A team project conducted to predict IBM employees attrition by implementing six learning models.
 
-**Motivation:** Many workplaces are considered as a second home for most employees due to the duration they spend at work. 
+**Motivation** Many workplaces are considered as a second home for most employees due to the duration they spend at work. 
 Successful workplaces consider the loss of their employees as bad as losing customers, if the rate of employees’ 
 resignation increased over a short portion of time. For that, the HR department always consider employees’ attrition as a bad indicator of the environment. 
 
-**Problem definition:**  Employees’ attrition is considered one of the toughest problems the HR department could face. 
+**Problem definition**  Employees’ attrition is considered one of the toughest problems the HR department could face. 
 Detecting the cause of such problem and analyzing the affecting factors can lead to a reasonable solution and furthermore 
 predict the attrition of the employees. The main purpose of this study is to build a model that would predict the employees’ attrition. 
 
 
-**Exploratory Data Analysis:**
+**Exploratory Data Analysis**
 The dataset presents employees survey of IBM HR employee attrition and performance from Kaggle website. It contains 1470 observations and 35 features. 
 A data quality report was generated to view the data types, missing / present values and irregular cardinalities. 
 A heat map was illustrated to view the correlation between the features and DataFrame.Describe() function was applied to calculate the central tendency measures.
@@ -18,14 +18,14 @@ A heat map was illustrated to view the correlation between the features and Data
 <img src="images/Eheatmap.png?raw=true"/>
 
 
-**Feature Engineering and Categorical Encoding:**
+**Feature Engineering and Categorical Encoding**
 The exploratory analysis proposed a lead to features with single cardinalities: over18, employee count and standard hours which do not produce values, 
 therefore were excluded. Then, extra tree algorithm was applied as feature selection method. 
 The final step was mapping the categorical features into numerical values dynamically using Pandas.DataFrame.Replace().
 
 <img src="images/EFimportance.png?raw=true"/>
 
-**Implementing Machine Learning models:**
+**Implementing Machine Learning models**
 
 Splitting the data into training and testing is mandatory to apply the learning models, which was done by: 
 1.	Holdout method: the simplest type of cross validation, which was used to separate the dataset into training and the testing sets by the train_test_split() function.   
@@ -60,7 +60,7 @@ By this the accuracy of the model was increased compared to decision tree model.
 
 
 
-**Results:** 
+**Results** 
 
 The following chart present the Recall, Precision and Accuracy values for the applied models.
 
