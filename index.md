@@ -51,7 +51,7 @@ Click here to [view the interactive charts and source code](https://nbviewer.jup
 ---
 
 
-- [Project 2 Title](http://example.com/)
+- [SQL exercises from leetCode on database problems](https://github.com/Raghadd7/SQL)
 
 ---
 
