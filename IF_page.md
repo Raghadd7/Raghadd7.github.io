@@ -43,7 +43,7 @@ In order to start the analysis and to deliver good results, it was essential to 
 For this reason, an exploratory analysis was done which includes data assessing to find different issues in the data. 
 The steps are divided as the following subsections:
 
-**A. Exploratory data analysis (EDA)**
+**A. Exploratory Data Analysis (EDA)**
 
 Data exploration is to identify the data’s proportions and the nature of the values each feature may hold. 
 In this study, we are interested in finding the cause and which factors of the accidents and what causes the severity to vary from accidents to another.
