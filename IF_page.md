@@ -37,6 +37,8 @@ car age...etc. The third dataset which is the casualty dataset has the informati
 condition, their age, sex social class, casualty type, pedestrian or car passenger. The accidents and the causality datasets together will cover the aspects to be investigated in this study, where the vehicle dataset might be used in future work 
 to uncover further factors.
 
+<img src="images/MAP_IF.png?raw=true"/>
+
 
 In order to start the analysis and to deliver good results, it was essential to understand the data at the beginning. 
 For this reason, an exploratory analysis was done which includes data assessing to find different issues in the data. 
