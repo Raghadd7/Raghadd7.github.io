@@ -28,7 +28,8 @@ Whereas, the Vehicle dataset describes the vehicle conditions which was involved
 car age...etc. The third dataset which is the casualty dataset has the information of the people involved in the accident such as the severity of the causality’s 
 condition, their age, sex social class, casualty type, pedestrian or car passenger. 
 
-The following figure shows the distribution of the accidents color coded by their severities.
+The following figure shows the distribution of the accidents color coded by their severities. The fatal and serious accidents happens mostly on highways 
+and the Cities and villages have a high ratio of slight accidents.
 
 <img src="images/MAP_IF.png?raw=true"/>
 
