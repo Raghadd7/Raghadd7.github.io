@@ -80,7 +80,7 @@ After selecting the features and balancing the classes of the independent variab
 
 **F. Class Association Rule (CAR)**
 
-#### NOTE: this part of the project was done by me for the source code [click here](https://github.com/Raghadd7/Association_Rules)
+### NOTE: this part of the project was done by me for the source code [click here](https://github.com/Raghadd7/Association_Rules)
 
 Further investigation on the factors that indicates the fatal casualty severity class of accidents was conducted by using the class association rule in R programming language. 18 attributes from the merged and balanced dataset were used to generate 65 rules with casualty severity fatal class in the consequent. The numerical attributes were discretized to intervals for example age, speed limit, number of vehicles and number of casualties and the date and time were converted to seasons and parts of the day (morning, evening and night).
 
