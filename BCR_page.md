@@ -1,6 +1,8 @@
 ## Prediction of Bank Customer Response to a Personal Loan Campaign
 
-Marketing campaigns are a very critical decision for a business that can be unsuccessful if the 
+#### For source code and full documentation [click here](https://github.com/Raghadd7/Bank-Customer-Response-Prediction)
+
+**Abstract** Marketing campaigns are a very critical decision for a business that can be unsuccessful if the 
 product or service delivered does not attract interested customers, thus the key objective for direct 
 marketing prediction is to identify potential customers from an existing database so that marketers can 
 design accurate strategies to increase sales and profitability. Machine learning methods have been successfully 
