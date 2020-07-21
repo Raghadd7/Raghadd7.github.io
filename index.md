@@ -50,12 +50,10 @@ Click here to [view the interactive charts and source code](https://nbviewer.jup
 
 ---
 
-- 
 - [SQL exercises from leetCode on database problems](https://github.com/Raghadd7/SQL)
 
 ---
 
-### Category Name 3
 
 
 ---
