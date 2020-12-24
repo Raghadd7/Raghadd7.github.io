@@ -32,7 +32,7 @@ Programming language: Python
 
 Programming language: Python (nltk, sklearn, sqlite3, flask)
 
-<img src="https://github.com/Raghadd7/Raghadd7.github.io/blob/master/images/Disaster%20Response.png">
+<img src="/images/Disaster Response2.png?raw=true">
 
 ---
 
