@@ -13,7 +13,6 @@ Click on the project titles below to view more details.
 
 Programming language: R (dataPreparation, ggplot2, caret, imbalance),  Python (Pandas, sklearn)
 
-<img src="images/BR-charts overview.png?raw=true"/>
 <img src="images/RF-charts overview.png?raw=true"/>
 
 ---
@@ -29,6 +28,8 @@ Programming language: Python
 ### Data Science Blog post 
 
 [The Aspects of Successful Crowdfunding Projects](https://raghad-a-otaibi.medium.com/the-aspects-of-successful-crowdfunding-projects-1e49435152af)
+
+<img src="images/BP-DV.png?raw=true"/>
 
 ---
 
