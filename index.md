@@ -26,6 +26,12 @@ Programming language: Python
 
 ---
 
+### Data Science Blog post 
+
+[The Aspects of Successful Crowdfunding Projects](https://raghad-a-otaibi.medium.com/the-aspects-of-successful-crowdfunding-projects-1e49435152af)
+
+---
+
 ### Natural Language Processing (NLP)
 
 [Disaster Response Web App](https://github.com/Raghadd7/Disaster-response-pipeline)
