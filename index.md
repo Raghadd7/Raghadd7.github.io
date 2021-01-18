@@ -45,7 +45,7 @@ Programming language: Python (nltk, sklearn, sqlite3, flask)
 
 ### Recommendation Engine
 
-[Recommendations with IBM]()
+[Article Recommendations with IBM]()
 
 Programming language: Pyhon
 
