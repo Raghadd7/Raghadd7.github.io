@@ -32,13 +32,6 @@ Programming language: Python
 Programming language: Python (pandas, matplotlib, plotly, sklearn)
 
 ---
-### Recommendation Engine
-
-[Recommendations with IBM]()
-
-Programming language: Pyhon
-
----
 
 ### Natural Language Processing (NLP)
 
@@ -47,6 +40,14 @@ Programming language: Pyhon
 Programming language: Python (nltk, sklearn, sqlite3, flask)
 
 <img src="/images/Disaster Response2.png?raw=true">
+
+---
+
+### Recommendation Engine
+
+[Recommendations with IBM]()
+
+Programming language: Pyhon
 
 ---
 
