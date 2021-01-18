@@ -29,7 +29,14 @@ Programming language: Python
 
 [The Aspects of Successful Crowdfunding Projects](https://raghad-a-otaibi.medium.com/the-aspects-of-successful-crowdfunding-projects-1e49435152af)
 
-<img src="images/BP-DV.png?raw=true"/>
+Programming language: Python (pandas, matplotlib, plotly, sklearn)
+
+---
+### Recommendation Engine
+
+[Recommendations with IBM]()
+
+Programming language: Pyhon
 
 ---
 
