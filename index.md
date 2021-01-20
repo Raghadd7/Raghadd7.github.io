@@ -25,7 +25,7 @@ Programming language: Python
 
 ---
 
-### Data Science Blog post 
+### Data Science Blog Post 
 
 [The Aspects of Successful Crowdfunding Projects](https://raghad-a-otaibi.medium.com/the-aspects-of-successful-crowdfunding-projects-1e49435152af)
 
